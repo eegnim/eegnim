@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Introduction
+안녕하세요.
+
+## Career
+영남대학교 통계학과 학생.
+
+# Links
+E-mail - eeg_nim@yu.ac.kr
+
 <!--
 **eegnim/eegnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
