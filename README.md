@@ -14,7 +14,7 @@ IT의 다양한 영역에서의 직종에 대한 탐색을 하고 있습니다.
 - 정보 시스템 운영자
 
 # Links
-- 😄 E-mail - eeg_nim@yu.ac.kr
+- 😄 E-mail - eegnimk@gmail.com
 - 😄 instagram - @1_can_d0_it >> 포트폴리오 계정
           
 
