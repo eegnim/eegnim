@@ -5,15 +5,11 @@
 컴퓨터와 기술에 대한 끊임없는 탐구와 배움을 즐기며, 
 IT의 다양한 영역에서의 직종에 대한 탐색을 하고 있습니다.
 
-### Career
-영남대학교 통계학(소속) & 컴퓨터공학(복수) 전공.
-
 ## Career Interests
 - 개발자
 
 # Links
 - 😄 E-mail - eegnimk@gmail.com
-- 😄 instagram - @1_can_d0_it >> 포트폴리오 계정
           
 
 <!--
